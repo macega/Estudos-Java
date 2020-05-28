@@ -6,6 +6,11 @@ package estudos.java.string;
  */
 public class NovaLinha {
 
+    /**
+     * 
+     * Como você adiciona um separador de linhas em Java?
+     * @param args
+     */
     public static void main(String[] args) {
         String s;
         
